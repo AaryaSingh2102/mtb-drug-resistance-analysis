@@ -1,0 +1,13 @@
+QC Parameter	Value
+Raw R1 reads	1527928
+Raw R2 reads	1527928
+Read pairs retained after trimming	1221818
+Raw variants	1850
+Filtered variants	1688
+Genome breadth (%)	99.1918
+Mean depth (X)	77.4724
+Mapping statistics	2830685 + 0 mapped (99.41% : N/A)
+Properly paired reads	2797170 + 0 properly paired (98.48% : N/A)
+Missense consequence entries	813
+Synonymous consequence entries	501
+High-impact consequence entries	94

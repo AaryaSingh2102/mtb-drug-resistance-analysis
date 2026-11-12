@@ -1,0 +1,4 @@
+Drug	Resistance-associated gene	Variant detected?	Mutation evidence
+Rifampicin	rpoB	Pending verification	SnpEff + TB-Profiler + IGV
+Isoniazid	katG	Pending verification	SnpEff + TB-Profiler + IGV
+Fluoroquinolone	gyrA	Pending verification	SnpEff + TB-Profiler + IGV
